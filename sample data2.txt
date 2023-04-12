@@ -34,14 +34,14 @@
 
 },
   "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"advance mod 1","desc":"Earning apk applications have become increasingly popular in recent years. These applications are designed to help users earn money by completing various tasks, ","photo":"https://iili.io/HvdsEMB.webp"},
+  {"title":"helper pack 2","desc":"such as taking surveys, watching videos, or downloading other apps.","photo":"https://iili.io/HvdsVF1.png"},
+  {"title":"tips mod 3","desc":" If you are interested in using an earning apk application to earn some extra cash, there are a few things you should know.","photo":"https://iili.io/Hvdsj9a.jpg"},
+  {"title":"how to use this app 4","desc":"First, it is important to be cautious when downloading and using earning apk applications. Some apps may contain malware or spyware that can harm your device or compromise your personal information.","photo":"https://iili.io/HvdsG6P.jpg"},
+  {"title":"advice pack 5","desc":" To avoid these risks, only download apps from trusted sources and read reviews from other users before downloading.","photo":"https://iili.io/HvdsWcF.png"},
+  {"title":"helper mod 6","desc":"Once you have downloaded an earning apk application, you will typically need to create an account and complete a profile. This information will be used to match you with tasks that are relevant to your interests and demographics.","photo":"https://iili.io/HvdsNwv.jpg"},
+  {"title":"tips pack 7","desc":"You will normally need to make an account and finish a profile after downloading an earning apk application. Your hobbies and demographics will be taken into account as we match you with tasks.","photo":"https://iili.io/HvdswAJ.jpg"},
+  {"title":"advance mod 8","desc":"To earn money using an earning apk application, you will typically need to complete tasks such as watching videos, taking surveys, or downloading other apps. The amount of money you can earn for each task will vary depending on the app and the task itself.","photo":"https://iili.io/HvdsOtR.jpg"}
 
    ]
  
